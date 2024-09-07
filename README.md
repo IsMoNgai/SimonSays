@@ -6,6 +6,11 @@ This is the code for the game SimonSays. It is powered by Arduino. If you have t
 Try to set it up in Tinkercad and play with it.
 Basically, the rules are:
 
+more info:
+
+https://ismongai.github.io/mo-portfolio/simon-games.html
+
+
 how does the game work?
 once you lose tracking the red light will blink and you lose the game restart.
 once you track all the lights in a round green light will blank and you win then the game restart.
